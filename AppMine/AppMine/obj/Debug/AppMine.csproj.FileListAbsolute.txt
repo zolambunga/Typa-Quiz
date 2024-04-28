@@ -1,0 +1,43 @@
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\AppMine.exe.config
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\AppMine.exe
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\AppMine.pdb
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.Properties.Resources.resources
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.SplashScrn.resources
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.csproj.GenerateResource.Cache
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.exe
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.pdb
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\pt\AppMine.resources.dll
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.SplashScrn.pt.resources
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\pt\AppMine.resources.dll
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.index.resources
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.pergunta1.resources
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.prgnta1.resources
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.csprojResolveAssemblyReference.cache
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\CircularProgressBar.dll
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\WinFormAnimation.dll
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\CircularProgressBar.xml
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\WinFormAnimation.xml
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.prgnta2.resources
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\CircularProgressBar.dll
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\WinFormAnimation.dll
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\CircularProgressBar.xml
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\WinFormAnimation.xml
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.index.resources
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.pergunta1.resources
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.prgnta1.resources
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.prgnta2.resources
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.Properties.Resources.resources
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.SplashScrn.resources
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.SplashScrn.pt.resources
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.csproj.GenerateResource.Cache
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\Typa Quiz.exe.config
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\Typa Quiz.exe
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\Typa Quiz.pdb
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\bin\Debug\pt\Typa Quiz.resources.dll
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\pt\Typa Quiz.resources.dll
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\Typa Quiz.exe
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\Typa Quiz.pdb
+D:\Zola Mbunga\Documents\Typa-typa programs (meus programas)\C#\AppMine\AppMine\obj\Debug\AppMine.csprojResolveAssemblyReference.cache
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\TypaQuiz 26.05.2023\AppMine\AppMine\bin\Debug\Typa Quiz.exe.config
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\TypaQuiz 26.05.2023\AppMine\AppMine\obj\Debug\Typa Quiz.exe
+C:\Users\Zola Mbunga\Desktop\k\Typa-typa programs (meus programas)\C#\TypaQuiz 26.05.2023\AppMine\AppMine\obj\Debug\Typa Quiz.pdb
